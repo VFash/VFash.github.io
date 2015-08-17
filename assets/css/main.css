@@ -3574,6 +3574,7 @@
 		display: -ms-flex;
 		display: flex;
 		max-width: 45em;
+		
 	}
 
 		#cta .inner header {
@@ -3582,11 +3583,13 @@
 			-ms-order: 1;
 			order: 1;
 			padding-right: 3em;
-			width: 70%;
+			text-align:left;
+			
 		}
 
 			#cta .inner header p {
 				color: inherit;
+				
 			}
 
 		#cta .inner .actions {
@@ -3601,13 +3604,14 @@
 
 			#cta .inner {
 				display: block;
-				text-align: center;
-				color:#000000;
+				text-align: left;
+				color:#471B82;
 			}
 
 				#cta .inner header {
 					padding-right: 0;
 					width: 100%;
+					
 				}
 
 				#cta .inner .actions {
@@ -3787,6 +3791,7 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		padding-top: 0;
+		
 	}
 
 	body.landing #footer {
@@ -3799,10 +3804,11 @@
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: url("https://c1.staticflickr.com/9/8083/8276043564_f10dc5e60b_b.jpg");
+		background-image: url("http://s9.favim.com/610/130823/fashion-hat-high-heels-street-style-Favim.com-872898.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
+		
 	}
 
 	body.is-mobile.landing #footer {
